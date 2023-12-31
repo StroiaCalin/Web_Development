@@ -1,0 +1,26 @@
+html{
+    background-color: black ;
+}
+
+div{
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#pozica{
+    width: 500px;
+    height: 300px;
+    margin-top: 150px;
+    border: 10px;
+    background-color: indianred;
+    border: 10px solid red;
+}
